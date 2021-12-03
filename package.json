@@ -1,0 +1,27 @@
+{
+  "name": "uniswap",
+  "version": "1.0.0",
+  "description": "ERC20 and UniSwap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdemKao/UniSwap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdemKao/UniSwap/issues"
+  },
+  "homepage": "https://github.com/AdemKao/UniSwap#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^12.0.4"
+  }
+}
